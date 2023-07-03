@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding: 0;
+}
+html{
+/* background-image: url('../src/images/background.jpg'); */
+}
+
+body{
+    /* background-image: url('../src/images/background.jpg'); */
+    
+    background-color: #ECF2FF;   
+    /* background-color: #CFe2F2;    */
+    /* background-color: #FAF0E4;    */
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.addItem{
+   /* border-radius: 0; */
+   border-top-left-radius: 1px;
+   border-bottom-left-radius: 1px;
+   border-color: #333;
+}
+.subtractItem{
+  border-top-right-radius: 1px;
+   border-bottom-right-radius: 1px;
+   border-color: #333;
+}
+
+.add-sub-btn,.item-time,.price-item{
+    border-width: 1px;
+    border-style:outset;
+    padding:1px 0px 7.1px 0px;
+    border-radius: 4px;
+    /* border-color:#11111132; */
+}
+
+.add-sub-btn{
+    border-style: solid;
+}
+.item-name{
+    text-decoration: underline;
+}
+
+
+.price-item,.item-time{
+    padding-top: 1px;
+/* background-color: #ccc; */
+
+}
+
+
+/* //#212529 */
+.menu-div{
+   align-items: center;
+    padding:2%;
+ 
+}
+.menu-items{
+padding-bottom: 3%;
+}
+
+.space{
+    padding-left: 10%;
+}
+
+.order-summary{
+background-color: rgb(199, 211, 207);
+text-align: center;
+border-radius: 20px;
+border-style: groove;
+}
+
+.order-total{    
+border-top: 2px solid;
+margin-top:5%;
+}
+.card-style{
+    margin-bottom:5%;
+    border-style: inset;
+    border-color: #717171;
+}
+.food-img{
+    /* width:18rem; */
+    height:15rem;
+}
+
+.order-submit{
+    visibility: hidden;
+    display:inline-block;
+}
+.order-box{
+    background-color: #9aa8a4;
+    border-radius: 1rem;
+    margin-bottom:2%;
+    padding:2%;
+    width: 30%;
+}
+.order-time,.items-list,.status{
+    background-color: rgb(199, 211, 207);
+    width:50%;
+    border-radius: 1rem;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.items-list,.status{
+ margin:0%;
+ border-radius: 0.5rem;
+ margin-top: 50px;
+}
+#user{
+    color:white
+}

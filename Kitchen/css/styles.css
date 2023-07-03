@@ -1,0 +1,19 @@
+.table-orders{
+    text-align: center;
+}
+.table{
+    background-color: rgb(194, 218, 217);
+    border-color:black ;
+}
+
+
+.history-prevOrders-btn{
+    margin:10px;
+    background-color: #333;
+    color:white;
+    border-radius: 10px;
+}
+
+.dashboard-desc{
+    
+}

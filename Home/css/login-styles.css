@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin:0;
+     background-color: #212529;
+}
+.login-home{
+    text-align: center;
+    justify-content: center;
+    background-color: #212529;
+    margin-top: 10%;
+}
+img{
+    margin-bottom: 1rem;
+    margin-right: 100px;
+}
+h3{
+    color:white;
+    width: 10%;
+    margin:50px;
+}
+
