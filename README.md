@@ -1,4 +1,4 @@
 # Waiterless-restaurant
 
 ## Usage
-npm i -g
+npm i -g `nodemon`
