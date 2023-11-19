@@ -205,3 +205,5 @@ sqlObj.query(sql,function (err, result) {
 app.listen(3000,function(){
     console.log("server started at 3000")
 })
+
+console.log("server is fine")
