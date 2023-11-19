@@ -1,6 +1,6 @@
 # Waiterless-restaurant
 
 ## Usage
-`yarn add `
+`npm i`
 `npm i -g nodemon`
 
